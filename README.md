@@ -1,6 +1,6 @@
 # ML Projects
 
-A collection of machine learning projects exploring various domains and techniques.
+my basic ml projects
 
 ## Projects
 
@@ -35,17 +35,7 @@ ML-Projects/
 - pandas
 - numpy
 
-## Getting Started
 
-Each project has its own subdirectory with a dedicated README containing:
-- Project overview
-- Dataset information
-- Model details
-- Performance metrics
-- Usage instructions
 
-Navigate to individual project directories for specific setup and execution instructions.
 
-## License
 
-MIT License - feel free to use these projects for learning and experimentation.
